@@ -9,6 +9,8 @@ Welcome to Markdown Doc Experiment's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   Installation/quickstart
+   Installation/advanced
 
 
 
