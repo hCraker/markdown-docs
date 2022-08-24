@@ -1,5 +1,5 @@
 .. Markdown Doc Experiment documentation master file, created by
-   sphinx-quickstart on Tue Aug 23 11:43:51 2022.
+   sphinx-quickstart on Wed Aug 24 12:50:58 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -9,8 +9,6 @@ Welcome to Markdown Doc Experiment's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   Installation/quickstart
-   Installation/advanced
 
 
 
