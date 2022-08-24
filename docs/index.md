@@ -5,10 +5,12 @@
 maxdepth: 2
 caption: Contents
 ---
-test.md
+info_pages/test.md
+info_pages/installation.md
+
 ```
 
-# Indices and tables
+## Indices and tables
 
 {ref}`genindex`
 
