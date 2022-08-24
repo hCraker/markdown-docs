@@ -2,11 +2,12 @@
 
 ```{toctree}
 ---
-maxdepth: 2
+maxdepth: 1
 caption: Contents
 ---
 info_pages/test.md
 info_pages/installation.md
+API/api.md
 
 ```
 
